@@ -1,6 +1,5 @@
 # project_organizer
 For Presentation & Report refer:
-
             assets\Group11_Report.pdf
             assets\Group11.pptx
 
