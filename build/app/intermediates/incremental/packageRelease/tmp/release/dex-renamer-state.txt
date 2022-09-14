@@ -1,0 +1,4 @@
+#Mon Jul 18 16:34:26 IST 2022
+base.0=D\:\\data\\desktop\\Study\\JoVAC\\project_organizer\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
