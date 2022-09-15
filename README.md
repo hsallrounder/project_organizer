@@ -4,7 +4,14 @@ For Presentation & Report refer:
         assets\Group11_Report.pdf
         assets\Group11.pptx
 
-A new Flutter project.
+Members Collboarated:
+
+        Himanshu Sharma    - github.com/hsallrounder
+        Akshit Saxena      - github.com/saxenaakshit
+        Molika Agarwal     - github.com/Molikaagarwal12
+        Prateek Kumar      - github.com/prateekcs
+        Mayank Saraswat    - github.com/MayankSaraswat13
+        Sangam Bansal      - github.com/Sangamb2001
 
 ## Getting Started
 
